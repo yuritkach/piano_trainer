@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">FragmentsPractic</string>
+  <string name="action_settings">Settings</string>
+  <string name="simpleEditHint">simpleEditHint</string>
+  <string name="mainButtonCaption">Playing</string>
+  <string name="optionsButtonCaption">Options</string>
+  <string name="aboutButtonCaption">About</string>
+  <string name="about">About...</string>
+</resources>
