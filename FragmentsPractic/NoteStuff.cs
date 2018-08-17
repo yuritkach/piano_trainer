@@ -31,7 +31,7 @@ namespace FragmentsPractic
 
         protected void DrawNoteStuff()
         {
-            DrawNoteStuffLines();
+            DrawNoteStuffLines(); //
 
         }
 
